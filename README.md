@@ -1,6 +1,6 @@
 # Hey, I'm Sourabh 👋
 
-Pre-final year B.Tech student at **Symbiosis Institute of Technology, Pune** — Electronics and Telecommunication Engineering, graduating 2027.
+Final year B.Tech student at **Symbiosis Institute of Technology, Pune** — Electronics and Telecommunication Engineering, graduating 2027.
 
 I build things at the intersection of **ML, computer vision, embedded systems, and IoT**. Currently working on making assistive technology affordable and accessible.
 
